@@ -1,4 +1,4 @@
-package br.com.argoninformatica.model;
+package br.com.jhonatan2760.model;
 
 import java.io.Serializable;
 import java.util.List;
